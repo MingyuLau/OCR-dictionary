@@ -8,7 +8,7 @@ __v__      集合，聚集，总计达到
 
 ### asymptotic behavior
 
-__n __     渐近行为
+__n__    渐近行为
 
 ## B
 
